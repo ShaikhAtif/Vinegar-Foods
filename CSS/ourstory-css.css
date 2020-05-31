@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+.headings
+{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+}
+
+.btn-preset
+{
+	background-color:rgba(195,0,3,1.00) !important;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	color: white !important;
+	padding: 13px 50px !important;
+	border-radius: 30px !important;
+	font-size: 1.4rem !important;
+}
+
+.btn-preset1
+{
+	background-color:rgba(195,0,3,1.00) !important;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	color: white !important;
+	padding: 10px 40px !important;
+	border-radius: 30px !important;
+	font-size: 1.4rem !important;
+}
+
+.secred
+{
+	background-color:rgba(247,236,236,0.90);
+}
+
+
+
+.storypic1
+{
+	height: 12rem;
+	background-image: url("../Images/story1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.storypic2
+{
+	height: 12rem;
+	background-image: url("../Images/story2.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.storypic3
+{
+	height: 12rem;
+	background-image: url("../Images/story3.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.storypic4
+{
+	height: 12rem;
+	background-image: url("../Images/story4.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
