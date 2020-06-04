@@ -222,7 +222,7 @@
 
 .page-breadcrumb {
     padding: 125px 0 75px;
-    background:url(../images/slider-01.jpg) no-repeat;
+    background:url(../Images/slider-01.jpg) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
@@ -458,7 +458,7 @@
 }
 
 .bg-f{
-	background-image:url(../images/all-bg.jpg);
+	background-image:url(../Images/all-bg.jpg);
 	background-attachment: scroll;
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -626,7 +626,7 @@
 .storypic1
 {
 	height: 12rem;
-	background-image:url(../images/story1.jpg);
+	background-image:url(../Images/story1.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -634,7 +634,7 @@
 .storypic2
 {
 	height: 12rem;
-	background-image:url(../images/story2.jpg);
+	background-image:url(../Images/story2.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -642,7 +642,7 @@
 .storypic3
 {
 	height: 12rem;
-	background-image:url(../images/story3.jpg);
+	background-image:url(../Images/story3.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -650,7 +650,7 @@
 .storypic4
 {
 	height: 12rem;
-	background-image:url(../images/story4.jpg);
+	background-image:url(../Images/story4.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -734,13 +734,3 @@
 		margin-top: 0px;
 	}
 }
-
-
-
-
-
-
-
-
-    
-
